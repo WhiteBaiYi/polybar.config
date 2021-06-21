@@ -1,4 +1,4 @@
-# polybar.cofig
+# polybar.config
 我的polybar.config文件
 
 需要安装pulseaudio-control（aur）
